@@ -16,3 +16,7 @@ const configuration = new Configuration({
 + basePath: "https://k8scat-openai-proxy.deno.dev/v1",
 });
 ```
+
+## Deploy
+
+https://dash.deno.com/projects/k8scat-openai-proxy
