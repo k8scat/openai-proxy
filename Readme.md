@@ -13,6 +13,6 @@ import { Configuration } from "openai";
 
 const configuration = new Configuration({
   apiKey: OPENAI_API_KEY,
-+ basePath: "https://closeai.deno.dev/v1",
++ basePath: "https://k8scat-openai-proxy.deno.dev/v1",
 });
 ```
